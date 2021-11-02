@@ -47,5 +47,6 @@ else:
 
 # Question 9
 print("\"Livin' On a Prayer\" is my friend's favorite song.")
-# Question 10
 
+# Question 10
+print(len("\"Livin' On a Prayer\" is my friend's favorite song."))
